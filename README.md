@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magicelk235" alt="magicelk235" /></a> </p>
 
+- My Biggest Project is [WorldSpawn Engine](https://github.com/magicelk235/Worldspawn-engine)
+
 - I’m currently working on [Magic Compiler](https://github.com/magicelk235/Magic-Compiler)
 
 - I’m currently learning **Assembly,JavaScript, Linear Algebra**
-
-- My Biggest Project is [WorldSpawn Engine](https://github.com/magicelk235/Worldspawn-engine)
 
 - All of my projects are available at [https://github.com/magicelk235?tab=repositories](https://github.com/magicelk235?tab=repositories)
 
