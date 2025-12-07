@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Yehonatan Cohen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magicelk235&label=Profile%20views&color=0e75b6&style=flat" alt="magicelk235" /> </p>
 
+- My Biggest Project is [WorldSpawn Engine](https://github.com/magicelk235/Worldspawn-engine)
+
 - I’m currently working on [Magic Compiler](https://github.com/magicelk235/Magic-Compiler)
 
 - I’m currently learning **Assembly,JavaScript, Linear Algebra**
-
-- My Biggest Project is [WorldSpawn Engine](https://github.com/magicelk235/Worldspawn-engine)
 
 - All of my projects are available at [https://github.com/magicelk235?tab=repositories](https://github.com/magicelk235?tab=repositories)
 
