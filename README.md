@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Yehonatan Cohen</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magicelk235&label=Profile%20views&color=0e75b6&style=flat" alt="magicelk235" /> </p>
 
 - My Biggest Project is [WorldSpawn Engine](https://github.com/magicelk235/Worldspawn-engine)
 
