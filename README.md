@@ -7,31 +7,29 @@ My Biggest Project is [WorldSpawn Engine](https://github.com/magicelk235/Worldsp
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="50" alt="discordjs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="52" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="52" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="52" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="52" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="52" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="52" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="52" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="52" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="52" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="52" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="52" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="52" alt="github logo"  />
 </div>
 
 ###
