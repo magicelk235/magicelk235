@@ -35,7 +35,7 @@ My Biggest Project is [WorldSpawn Engine](https://github.com/magicelk235/Worldsp
   <a href="https://discord.com/users/882635570172534815" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
-  <a href="yehonatan.2350@gmail.com" target="_blank">
+  <a href="mailto:yehonatan.2350@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://dev.to/magicelk235" target="_blank">
