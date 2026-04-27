@@ -7,23 +7,31 @@ My Biggest Project is [WorldSpawn Engine](https://github.com/magicelk235/Worldsp
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="50" alt="discordjs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
 </div>
 
 ###
@@ -40,6 +48,9 @@ My Biggest Project is [WorldSpawn Engine](https://github.com/magicelk235/Worldsp
   </a>
   <a href="https://dev.to/magicelk235" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
+  </a>
+  <a href="https://gitlab.com/magicelk235" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gitlab logo"  />
   </a>
 </div>
 
