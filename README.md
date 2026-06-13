@@ -59,8 +59,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="55" alt="swift logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
@@ -70,6 +68,8 @@
   <img src="https://skillicons.dev/icons?i=md" height="55" alt="markdown logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=cmake" height="55" alt="cmake logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=swift" height="55" alt="swift logo"  />
 </div>
 
 ###
