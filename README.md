@@ -33,43 +33,43 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=c" height="55" alt="c logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cplusplus logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=cs" height="55" alt="csharp logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=discord" height="55" alt="discord logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=md" height="55" alt="markdown logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="55" alt="cmake logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=swift" height="55" alt="swift logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="65" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=c" height="65" alt="c logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="65" alt="cplusplus logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="65" alt="python logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=java" height="65" alt="java logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cs" height="65" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linux" height="65" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="65" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=bash" height="65" alt="bash logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="65" alt="git logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=discord" height="65" alt="discord logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ts" height="65" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="65" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="65" alt="css logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=md" height="65" alt="markdown logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="65" alt="cmake logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=swift" height="65" alt="swift logo"  />
 </div>
 
 ###
